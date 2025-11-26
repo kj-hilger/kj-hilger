@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="630479e1-fdf7-461d-a29c-6b64d12fa10b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Linux Cert](linux-essentials-certificate.9.png.jpg)
 
 <!--
 **kj-hilger/kj-hilger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
