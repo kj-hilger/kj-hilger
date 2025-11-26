@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Linux Cert](kj.hilger/linux-essentials-certificate.9.png.jpg)
+![Linux Cert](kj.hilger/linux-essentials-certificate.9.png)
 
 <!--
 **kj-hilger/kj-hilger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
