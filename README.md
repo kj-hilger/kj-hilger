@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 🎓 Zertifikate
-[![Linux Essentials Certificate](https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob)](https://www.credly.com/badges/630479e1-fdf7-461d-a29c-6b64d12fa10b/public_url)
+[![Linux Essentials Certificate](https://images.credly.com/size/204x204/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob)](https://www.credly.com/badges/630479e1-fdf7-461d-a29c-6b64d12fa10b/public_url)
 
 
 <!--
