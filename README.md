@@ -5,7 +5,7 @@
 [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/204x204/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob)](https://www.credly.com/badges/fc8fdfae-03c5-499c-ab4b-3993ac8ad6b7/public_url)
 [![Camunda Certified Associate](https://images.credly.com/size/204x204/images/068c4447-4ae4-47a3-b053-4c9beddfb257/blob)](https://www.credly.com/badges/480a1077-32a9-408f-accc-b9536ccf5dbc/public_url)
 
-[Credly Profil](https://www.credly.com/users/karl-josef-hilger)
+[Credly Profil][https://www.credly.com/users/karl-josef-hilger]
 
 <!--
 **kj-hilger/kj-hilger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
