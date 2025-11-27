@@ -2,6 +2,7 @@
 
 ## 🎓 Zertifikate
 [![Linux Essentials Certificate](https://images.credly.com/size/204x204/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob)](https://www.credly.com/badges/630479e1-fdf7-461d-a29c-6b64d12fa10b/public_url)
+[![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/204x204/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob)](https://www.credly.com/badges/fc8fdfae-03c5-499c-ab4b-3993ac8ad6b7/public_url)
 
 
 <!--
