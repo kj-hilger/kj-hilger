@@ -7,7 +7,6 @@
 [![Camunda Certified Professional Developer](https://images.credly.com/size/175x175/images/413b6d6a-24d4-44ca-8e91-4a71e3d0c6e9/blob)](https://www.credly.com/badges/a0fdb13b-5ccd-4bf4-9b7e-0cd1f135f7e4/public_url)
 
 https://www.credly.com/users/karl-josef-hilger
-https://images.credly.com/size/340x340/images//image.png
 <!--
 **kj-hilger/kj-hilger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
