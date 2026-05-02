@@ -1,23 +1,45 @@
-## Hi there 👋
+# Hi, I'm KJ 👋
 
-## 🎓 Zertifikate
-[![Linux Essentials Certificate](https://images.credly.com/size/175x175/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob)](https://www.credly.com/badges/630479e1-fdf7-461d-a29c-6b64d12fa10b/public_url)
-[![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/175x175/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob)](https://www.credly.com/badges/fc8fdfae-03c5-499c-ab4b-3993ac8ad6b7/public_url)
-[![Camunda Certified Associate](https://images.credly.com/size/175x175/images/068c4447-4ae4-47a3-b053-4c9beddfb257/blob)](https://www.credly.com/badges/480a1077-32a9-408f-accc-b9536ccf5dbc/public_url)
-[![Camunda Certified Professional Developer](https://images.credly.com/size/175x175/images/413b6d6a-24d4-44ca-8e91-4a71e3d0c6e9/blob)](https://www.credly.com/badges/a0fdb13b-5ccd-4bf4-9b7e-0cd1f135f7e4/public_url)
+### BPMN Architect | Senior Java Developer | DevOps Engineer
 
-https://www.credly.com/users/karl-josef-hilger
-<!--
-**kj-hilger/kj-hilger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between **deterministic process automation** and **autonomous AI execution**. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **observability**, and **Cloud-Native excellence** are non-negotiable requirements.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Verified Credentials
+Independently verified certifications in Cloud Native Engineering, Infrastructure, and Automation.
+
+[<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />](https://www.credly.com/users/karl-josef-hilger)
+
+---
+
+## 🚀 Core Competencies in Practice
+
+- **Orchestration:** Advanced BPMN 2.0 (Camunda 8 / Zeebe), DMN Decision Logic.
+- **Software Engineering:** Modern Java Ecosystem (Spring Boot 3.x/4), Clean Code principles.
+- **DevOps & Observability:** Monitoring with Prometheus & Grafana.
+- **Infrastructure & Cloud:** Terraform, AWS.
+- **Platform & GitOps:** Kubernetes (OpenShift/Minikube/Helm/ArgoCD), CI/CD (Tekton, GitHub Actions).
+- **Agentic AI:** Integration of Local LLMs into governed workflows (Adaptive Case Management 2.0).
+
+---
+
+## 📂 Featured Projects (The Ecosystem)
+
+I maintain a modular portfolio that demonstrates a full-stack engineering approach:
+
+1.  **[Enterprise Process AI Stack](LINK_ZUM_REPO):** Sovereign AI Orchestration. Integrating Camunda 8 with local LLMs (LM Studio) and Prometheus/Grafana observability.
+2.  **[Modern Java GitOps Showcase](LINK_ZUM_REPO):** (Planned) Demonstrating a high-performance Spring Boot stack integrated into a full GitOps CI/CD pipeline (Helm/ArgoCD).
+3.  **[Terraform AWS Infrastructure Hub](LINK_ZUM_REPO):** (Planned) Production-grade IaaS blueprints for secure, multi-tier AWS environments using Terraform.
+
+---
+
+## 🔗 Connect with me
+
+For professional history and career details, please visit my professional profiles:
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karl-josef-hilger-b7209b3b4/)
+[<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/KarlJosef_Hilger)
+
+---
+*Engineering for resilience, sovereignty, and scale.*
