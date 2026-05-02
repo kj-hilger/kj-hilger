@@ -28,9 +28,9 @@ Independently verified certifications in Cloud Native Engineering, Infrastructur
 
 I maintain a modular portfolio that demonstrates a full-stack engineering approach:
 
-1.  **[Enterprise Process AI Stack](LINK_ZUM_REPO):** Sovereign AI Orchestration. Integrating Camunda 8 with local LLMs (LM Studio) and Prometheus/Grafana observability.
-2.  **[Modern Java GitOps Showcase](LINK_ZUM_REPO):** (Planned) Demonstrating a high-performance Spring Boot stack integrated into a full GitOps CI/CD pipeline (Helm/ArgoCD).
-3.  **[Terraform AWS Infrastructure Hub](LINK_ZUM_REPO):** (Planned) Production-grade IaaS blueprints for secure, multi-tier AWS environments using Terraform.
+1.  **[Enterprise Process AI Stack](https://github.com/kj-hilger/enterprise-process-ai-stack):** Sovereign AI Orchestration. Integrating Camunda 8 with local LLMs (LM Studio) and Prometheus/Grafana observability.
+2.  **Modern Java GitOps Showcase:** (Planned) Demonstrating a high-performance Spring Boot stack integrated into a full GitOps CI/CD pipeline (Helm/ArgoCD).
+3.  **Terraform AWS Infrastructure Hub:** (Planned) Production-grade IaaS blueprints for secure, multi-tier AWS environments using Terraform.
 
 ---
 
