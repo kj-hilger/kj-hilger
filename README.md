@@ -1,6 +1,6 @@
 # Hi, I'm KJ 👋
 
-### BPMN Architect | Senior Java Developer | DevOps Engineer
+### Java Backend Developer | DevOps Engineer
 
 I bridge the gap between **deterministic process automation** and **autonomous AI execution**. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **observability**, and **Cloud-Native excellence** are non-negotiable requirements.
 
@@ -16,6 +16,7 @@ Independently verified certifications in Cloud Native Engineering, Infrastructur
 ## 🚀 Core Competencies in Practice
 
 - **Orchestration:** Advanced BPMN 2.0 (Camunda 8 / Zeebe), DMN Decision Logic.
+- **Camunda Mentor:** Trained ~150 colleagues in BPMN/DMN/Web-UIs & ~20 in Java-based process development.“
 - **Software Engineering:** Modern Java Ecosystem (Spring Boot 3.x/4), Clean Code principles.
 - **DevOps & Observability:** Monitoring with Prometheus & Grafana.
 - **Infrastructure & Cloud:** Terraform, AWS.
@@ -29,8 +30,9 @@ Independently verified certifications in Cloud Native Engineering, Infrastructur
 I maintain a modular portfolio that demonstrates a full-stack engineering approach:
 
 1.  **[Enterprise Process AI Stack](https://github.com/kj-hilger/enterprise-process-ai-stack):** Sovereign AI Orchestration. Integrating Camunda 8 with local LLMs (LM Studio) and Prometheus/Grafana observability.
-2.  **Modern Java GitOps Showcase:** (Planned) Demonstrating a high-performance Spring Boot stack integrated into a full GitOps CI/CD pipeline (Helm/ArgoCD).
-3.  **Terraform AWS Infrastructure Hub:** (Planned) Production-grade IaaS blueprints for secure, multi-tier AWS environments using Terraform.
+2.  **[Change Maker Core](https://github.com/kj-hilger/change-maker-core):** Deployment automation bridge between agile development and strict financial regulations (VAIT/DORA).
+3.  **Modern Java GitOps Showcase:** (Planned) Demonstrating a high-performance Spring Boot stack integrated into a full GitOps CI/CD pipeline (Helm/ArgoCD).
+4.  **Terraform AWS Infrastructure Hub:** (Planned) Production-grade IaaS blueprints for secure, multi-tier AWS environments using Terraform.
 
 ---
 
