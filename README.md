@@ -2,7 +2,7 @@
 
 ### Java Backend Developer | DevOps Engineer
 
-I bridge the gap between **deterministic process automation** and **autonomous AI execution**. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **observability**, and **Cloud-Native excellence** are non-negotiable requirements.
+I bridge the gap between **deterministic process automation** and **autonomous AI execution**. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **auditable compliance** and **scalability** are non-negotiable requirements. 
 
 ---
 
@@ -29,7 +29,7 @@ Independently verified certifications in Cloud Native Engineering, Infrastructur
 
 I maintain a modular portfolio that demonstrates a full-stack engineering approach:
 
-1.  **[Enterprise Process AI Stack](https://github.com/kj-hilger/enterprise-process-ai-stack):** Sovereign AI Orchestration. Integrating Camunda 8 with local LLMs (LM Studio) and Prometheus/Grafana observability.
+1.  **[Sovereign Agentic Orchestration Stack](https://github.com/kj-hilger/sovereign-agentic-orchestration-stack):** Sovereign AI Orchestration. Integrating Camunda 8 with local LLMs (LM Studio).
 2.  **[Change Maker Core](https://github.com/kj-hilger/change-maker-core):** Deployment automation bridge between agile development and strict financial regulations (VAIT/DORA).
 3.  **Modern Java GitOps Showcase:** (Planned) Demonstrating a high-performance Spring Boot stack integrated into a full GitOps CI/CD pipeline (Helm/ArgoCD).
 4.  **Terraform AWS Infrastructure Hub:** (Planned) Production-grade IaaS blueprints for secure, multi-tier AWS environments using Terraform.
@@ -44,4 +44,4 @@ For professional history and career details, please visit my professional profil
 [<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/KarlJosef_Hilger)
 
 ---
-*Engineering for resilience, sovereignty, and scale.*
+*Engineering for sovereignty, compliance and scale.*
