@@ -30,7 +30,7 @@ Independently verified certifications in Cloud Native Engineering, Infrastructur
 I maintain a modular portfolio that demonstrates a full-stack engineering approach:
 
 1.  **[Sovereign Agentic Orchestration Stack](https://github.com/kj-hilger/sovereign-agentic-orchestration-stack):** A framework for transparent, audit-proof automation of agentic AI in regulated environments.
-2.  **[Change Maker Core](https://github.com/kj-hilger/change-maker-core):** Deployment automation bridge between agile development and strict financial regulations (VAIT/DORA).
+2.  **[Change Automation Core](https://github.com/kj-hilger/change-automation-core):** Deployment automation bridge between agile development and strict financial regulations (VAIT/DORA).
 3.  **Modern Java GitOps Showcase:** (Planned) Demonstrating a high-performance Spring Boot stack integrated into a full GitOps CI/CD pipeline (Helm/ArgoCD).
 4.  **Terraform AWS Infrastructure Hub:** (Planned) Production-grade IaaS blueprints for secure, multi-tier AWS environments using Terraform.
 
