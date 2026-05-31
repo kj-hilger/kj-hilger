@@ -25,6 +25,13 @@ Independently verified certifications in Cloud Native Engineering, Infrastructur
 
 ---
 
+## 💡 Portfolio Philosophy & Scope
+
+* My GitHub projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context. 
+* Built entirely from scratch as independent implementations, they serve as sandboxed environments for rapid technology validation and facilitate straightforward technical engagement with stakeholders.
+
+---
+
 ## 📂 Featured Projects (The Ecosystem)
 
 I maintain a modular portfolio that demonstrates a full-stack engineering approach:
