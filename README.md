@@ -27,14 +27,12 @@ Independently verified certifications in Cloud Native Engineering, Infrastructur
 
 ## 💡 Portfolio Philosophy & Scope
 
-* My GitHub projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context. 
+* I maintain a modular portfolio that demonstrates a full-stack engineering approach. My GitHub projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context.
 * Built entirely from scratch as independent implementations, they serve as sandboxed environments for rapid technology validation and facilitate straightforward technical engagement with stakeholders.
 
 ---
 
 ## 📂 Featured Projects (The Ecosystem)
-
-I maintain a modular portfolio that demonstrates a full-stack engineering approach:
 
 1.  **[Sovereign Agentic Orchestration Stack](https://github.com/kj-hilger/sovereign-agentic-orchestration-stack):** A framework for transparent, audit-proof automation of agentic AI in regulated environments.
 2.  **[Change Automation Core](https://github.com/kj-hilger/change-automation-core):** Deployment automation bridge between agile development and strict financial regulations (VAIT/DORA).
