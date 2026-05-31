@@ -1,6 +1,6 @@
 # Hi, I'm KJ 👋
 
-### Java Backend Developer | DevOps Engineer
+### Java Backend Developer | DevOps Engineer | Camunda Agentic Orchestration | Remote-First | Inhouse
 
 I bridge the gap between **deterministic process automation** and **autonomous AI execution**. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **auditable compliance** and **scalability** are non-negotiable requirements. 
 
