@@ -36,6 +36,6 @@ Independently verified certifications in Cloud Native Engineering, Infrastructur
 
 ## 💡 Portfolio Philosophy & Scope
 
-* Most of my work consists on code for my company and ist confidential, so in my public github account ist less activity.
-* Here I maintain a modular portfolio that demonstrates a full-stack engineering approach. My GitHub projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context.
-* Built entirely from scratch as independent implementations, they serve as sandboxed environments for technology validation and facilitate straightforward technical engagement with stakeholders.
+* While my primary engineering output remains confidential within corporate repositories, this public space showcases a curated, modular portfolio that demonstrates a full-stack engineering approach.
+* Here, my projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context. 
+* Built entirely from scratch, they serve as sandboxed environments for technology validation and easy stakeholder engagement.
