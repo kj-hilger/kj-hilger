@@ -6,6 +6,15 @@ I bridge the gap between **deterministic process automation** and **autonomous A
 
 ---
 
+## 🔗 Connect with me
+
+For professional history and career details, please visit my professional profiles:
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karl-josef-hilger-b7209b3b4/)
+[<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/KarlJosef_Hilger)
+
+---
+
 ## 🎓 Verified Credentials
 Independently verified certifications in Cloud Native Engineering, Infrastructure, and Automation.
 
@@ -27,26 +36,6 @@ Independently verified certifications in Cloud Native Engineering, Infrastructur
 
 ## 💡 Portfolio Philosophy & Scope
 
-* I maintain a modular portfolio that demonstrates a full-stack engineering approach. My GitHub projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context.
-* Built entirely from scratch as independent implementations, they serve as sandboxed environments for rapid technology validation and facilitate straightforward technical engagement with stakeholders.
-
----
-
-## 📂 Featured Projects (The Ecosystem)
-
-1.  **[Sovereign Agentic Orchestration Stack](https://github.com/kj-hilger/sovereign-agentic-orchestration-stack):** A framework for transparent, audit-proof automation of agentic AI in regulated environments.
-2.  **[Change Automation Core](https://github.com/kj-hilger/change-automation-core):** Deployment automation bridge between agile development and strict financial regulations (VAIT/DORA).
-3.  **Modern Java GitOps Showcase:** (Planned) Demonstrating a high-performance Spring Boot stack integrated into a full GitOps CI/CD pipeline (Helm/ArgoCD).
-4.  **Terraform AWS Infrastructure Hub:** (Planned) Production-grade IaaS blueprints for secure, multi-tier AWS environments using Terraform.
-
----
-
-## 🔗 Connect with me
-
-For professional history and career details, please visit my professional profiles:
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karl-josef-hilger-b7209b3b4/)
-[<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/KarlJosef_Hilger)
-
----
-*Engineering for sovereignty, compliance and scale.*
+* Most of my work consists on code for my company and ist confidential, so in my public github account ist less activity.
+* Here I maintain a modular portfolio that demonstrates a full-stack engineering approach. My GitHub projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context.
+* Built entirely from scratch as independent implementations, they serve as sandboxed environments for technology validation and facilitate straightforward technical engagement with stakeholders.
