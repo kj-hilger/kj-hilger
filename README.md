@@ -6,12 +6,15 @@ I bridge the gap between **deterministic process automation** and **autonomous A
 
 ---
 
-## 🔗 Connect with me
+## 🚀 Core Competencies in Practice
 
-For professional history and career details, please visit my professional profiles:
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karl-josef-hilger-b7209b3b4/)
-[<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/KarlJosef_Hilger)
+- **Orchestration:** Advanced BPMN 2.0 (Camunda 8 / Zeebe), DMN Decision Logic.
+- **Camunda Mentor:** Trained ~150 colleagues in BPMN/DMN/Web-UIs & ~20 in Java-based process development.“
+- **Software Engineering:** Modern Java Ecosystem (Spring Boot 3.x/4), Clean Code principles.
+- **DevOps & Observability:** Monitoring with Prometheus & Grafana.
+- **Infrastructure & Cloud:** Terraform, AWS.
+- **Platform & GitOps:** Kubernetes (OpenShift/Minikube/Helm/ArgoCD), CI/CD (Tekton, GitHub Actions).
+- **Agentic AI:** Integration of Local LLMs into governed workflows (Adaptive Case Management 2.0).
 
 ---
 
@@ -22,15 +25,12 @@ Independently verified certifications in Cloud Native Engineering, Infrastructur
 
 ---
 
-## 🚀 Core Competencies in Practice
+## 🔗 Connect with me
 
-- **Orchestration:** Advanced BPMN 2.0 (Camunda 8 / Zeebe), DMN Decision Logic.
-- **Camunda Mentor:** Trained ~150 colleagues in BPMN/DMN/Web-UIs & ~20 in Java-based process development.“
-- **Software Engineering:** Modern Java Ecosystem (Spring Boot 3.x/4), Clean Code principles.
-- **DevOps & Observability:** Monitoring with Prometheus & Grafana.
-- **Infrastructure & Cloud:** Terraform, AWS.
-- **Platform & GitOps:** Kubernetes (OpenShift/Minikube/Helm/ArgoCD), CI/CD (Tekton, GitHub Actions).
-- **Agentic AI:** Integration of Local LLMs into governed workflows (Adaptive Case Management 2.0).
+For professional history and career details, please visit my professional profiles:
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karl-josef-hilger-b7209b3b4/)
+[<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/KarlJosef_Hilger)
 
 ---
 
