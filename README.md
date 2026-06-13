@@ -39,6 +39,6 @@ For professional history and career details, please visit my professional profil
 ## 💡 Portfolio Philosophy & Scope
 
 * While my primary engineering output remains confidential within corporate repositories, this public space showcases a curated, modular portfolio that demonstrates a full-stack engineering approach.
-* Here, my projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context, specifically designed to run on sovereign hardware like the Nvidia Jetson Orin Nano.
-* Additionally, I document and describe organizational patterns I have observed and developed.
-* Built entirely from scratch, my repositories serve as sandboxed environments for technology validation and clear communication with stakeholders.
+* Here, my projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context, specifically designed to run on my own sovereign hardware.
+* Additionally, I document organizational patterns I have observed and developed.
+* Built entirely from scratch, my repos serve as sandboxed environments for technology validation and clear communication with stakeholders.
