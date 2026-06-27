@@ -6,25 +6,34 @@ I bridge the gap between **deterministic process automation** and **autonomous A
 
 ---
 
-## 🚀 Core Competencies in Practice
-
-- **Orchestration:** Advanced BPMN 2.0 (Camunda 8 / Zeebe), DMN Decision Logic.
-- **Agentic AI:** Integration of Local LLMs into governed workflows (Adaptive Case Management 2.0).
-- **Camunda Mentor:** Trained ~150 colleagues in BPMN/DMN/Web-UIs & ~20 in Java-based process development.
-- **Software Engineering:** Modern Java Ecosystem (Spring Boot 3.x/4), Clean Code principles.
-- **DevOps & Observability:** Monitoring with Prometheus & Grafana.
-- **Infrastructure & Cloud:** Terraform, AWS.
-- **Platform & GitOps:** Kubernetes (OpenShift/Minikube/Helm/ArgoCD), CI/CD (Tekton, GitHub Actions).
-- **OS & Scripting:** Linux, Bash, Python.
-- **Frontend & UI:** Google Web Toolkit (GWT), client/server communication architectures, with a functional foundation in JavaScript.
-- **Private Lab Setup:** Desktop with 16 GB GPU, 64 GB RAM, IntelliJ + Continue Plugin, LM-Studio with Qwen3-Coder. Jetson Orin Nano 8GB.
+## 🚀 Core Competencies & Tech Stack
+*   **Top Skills:** Spring Boot | Kubernetes (OpenShift) | Camunda 8 (Zeebe, BPMN 2.0, DMN).
+*   **Engineering & AI:** Java | Python | Agentic AI & Local LLMs in governed workflows (ACM 2.0) | CI/CD (Tekton, GitHub Actions).
+*   **Infrastructure & GitOps:** Infrastructure as Code (IaC via Terraform) | Helm Charts | ArgoCD | Linux | AWS.
+*   **Observability & Compliance:** IT Observability (Grafana) | Compliance as Code / Compliance Automation (DORA).
+*   **Frontend & UI:** Google Web Toolkit (GWT) | Client/Server communication architectures | JavaScript foundation.
+*   **Methodology & Leadership:** Kanban | Trained ~150 colleagues in BPMN/DMN & ~20 in Java process development.
 
 ---
 
 ## 🎓 Verified Credentials
-Independently verified certifications in Cloud Native Engineering, Infrastructure, and Automation.
 
-[<img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />](https://www.credly.com/users/karl-josef-hilger)
+For a detailed list of earned skills, please visit my badges on Credly:
+
+<p align="left">
+  <a href="https://www.credly.com/badges/630479e1-fdf7-461d-a29c-6b64d12fa10b" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" alt="Linux Essentials" width="80" height="80" style="opacity: 0.8; margin-right: 10px;"/>
+  </a>
+  <a href="https://www.credly.com/badges/ad078eb1-1369-4ad7-b825-e64dfe8b685f" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="Terraform Associate" width="80" height="80" style="opacity: 0.8; margin-right: 10px;"/>
+  </a>
+  <a href="https://www.credly.com/badges/480a1077-32a9-408f-accc-b9536ccf5dbc" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/068c4447-4ae4-47a3-b053-4c9beddfb257/blob" alt="Camunda Associate" width="80" height="80" style="opacity: 0.8; margin-right: 10px;"/>
+  </a>
+  <a href="https://www.credly.com/badges/a0fdb13b-5ccd-4bf4-9b7e-0cd1f135f7e4" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/413b6d6a-24d4-44ca-8e91-4a71e3d0c6e9/image.png" alt="Camunda Professional" width="80" height="80" style="opacity: 0.8;"/>
+  </a>
+</p>
 
 ---
 
@@ -42,3 +51,9 @@ For professional history and career details, please visit my professional profil
 * Here, my projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context, specifically designed to run on my own sovereign hardware.
 * Additionally, I document organizational patterns I have observed and developed.
 * Built entirely from scratch, my repos serve as sandboxed environments for technology validation and clear communication with stakeholders.
+
+---
+
+## 🛠️ Private Lab Setup
+*   **Compute:** Dedicated Desktop (64 GB RAM, 16 GB VRAM GPU), Jetson Orin Nano (8 GB combined RAM/GPU), Raspberry Pi (8 GB RAM).
+*   **AI Stack:** LM-Studio with Qwen3-Coder | IntelliJ + Continue Plugin.
