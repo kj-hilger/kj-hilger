@@ -8,10 +8,11 @@ I bridge the gap between **deterministic process automation** and **autonomous A
 
 ## 🚀 Core Competencies & Tech Stack
 *   **Top Skills:** Spring Boot | Kubernetes (OpenShift) | Camunda 8 (Zeebe, BPMN 2.0, DMN).
-*   **Engineering & AI:** Java | Python | Agentic AI & Local LLMs in governed workflows (ACM 2.0) | CI/CD (Tekton, GitHub Actions).
-*   **Infrastructure & GitOps:** Infrastructure as Code (IaC via Terraform) | Helm Charts | ArgoCD | Linux | AWS.
-*   **Observability & Compliance:** IT Observability (Grafana) | Compliance as Code / Compliance Automation (DORA).
-*   **Frontend & UI:** Google Web Toolkit (GWT) | Client/Server communication architectures | JavaScript foundation.
+*   **Engineering & AI:** Java | Python | Agentic AI & Local LLMs in governed workflows | CI/CD (Tekton, GitHub).
+*   **Infrastructure & GitOps:** Linux | AWS | Infrastructure as Code (Terraform) | Helm | ArgoCD.
+*   **Observability & Compliance:** IT Observability (Grafana) | Compliance as Code (DORA).
+*   **Frontend & UI:** Google Web Toolkit (GWT) | Client/Server communication | JavaScript foundation.
+*   **Data:** SQL | PostgreSQL.
 *   **Methodology & Leadership:** Kanban | Trained ~150 colleagues in BPMN/DMN & ~20 in Java process development.
 
 ---
@@ -55,5 +56,5 @@ For professional history and career details, please visit my professional profil
 ---
 
 ## 🛠️ Private Lab Setup
-*   **Compute:** Dedicated Desktop (64 GB RAM, 16 GB VRAM GPU), Jetson Orin Nano (8 GB combined RAM/GPU), Raspberry Pi (8 GB RAM).
-*   **AI Stack:** LM-Studio with Qwen3-Coder | IntelliJ + Continue Plugin.
+*   **Compute:** Desktop (64 GB RAM, 16 GB VRAM GPU) | Jetson Orin Nano (8 GB combined RAM/GPU) | Raspberry Pi 5 (8 GB RAM).
+*   **AI:** LM-Studio with Qwen3-Coder-30b-a3b-Instruct Q_8 full GPU Offload and 40k Context window | IntelliJ + Continue Plugin.
