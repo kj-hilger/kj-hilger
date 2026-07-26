@@ -1,6 +1,6 @@
 # Hi, I'm KJ 👋
 
-### Java Backend Developer | DevOps Engineer | Camunda Agentic Orchestration | Remote-First | Inhouse
+### Senior Java & DevOps Engineer | Agentic AI Orchestration | Bridging Innovation & Compliance (DORA) | Inhouse | Remote-First
 
 I bridge the gap between **deterministic process automation** and **autonomous AI execution**. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **auditable compliance**, and **scalability** are non-negotiable requirements.
 
@@ -48,13 +48,17 @@ For professional history and career details, please visit my professional profil
 
 ## 💡 Portfolio Philosophy & Scope
 
-* While my primary engineering output remains confidential within corporate repositories, this public space showcases a curated, modular portfolio that demonstrates a full-stack engineering approach.
-* Here, my projects apply my experience with complex, large-scale enterprise landscapes within a more innovative context, specifically designed to run on my own sovereign hardware.
-* Additionally, I document organizational patterns I have observed and developed.
-* Built entirely from scratch, my repos serve as sandboxed environments for technology validation and clear communication with stakeholders.
+* My professional role involves navigating the high-stakes complexities of making critical trade-offs between quality, velocity, and cost in a complex, large-scale enterprise landscape - these outputs remain confidential within corporate repositories.
+* In contrast this public space serves as a distillation of that experience, showcasing a full-stack engineering approach.
+* My repos isolate specific technologies or explore organizational patterns at a meta-level to provide clear, modular insights into my engineering DNA.
+* Built entirely from scratch, my repos serve as sandboxed environments for technology validation on my own sovereign hardware and as a means for clear communication with stakeholders.
 
 ---
 
 ## 🛠️ Private Lab Setup
-*   **Compute:** Desktop (64 GB RAM, 16 GB VRAM GPU) | Jetson Orin Nano (8 GB combined RAM/GPU) | Raspberry Pi 5 (8 GB RAM).
-*   **AI:** LM-Studio with Qwen3-Coder-30b-a3b-Instruct Q_8 full GPU Offload and 40k Context window | IntelliJ + Continue Plugin.
+
+For rapid prototyping and technological validation:
+* **Hardware:** Desktop (64 GB RAM, 16 GB GPU) | Jetson Orin Nano (8 GB Unified Memory) | Raspberry Pi 5 (8 GB RAM)
+* **AI Server & LLMs:** LM Studio | Qwen3-Coder-30B-A3B-Instruct (Q8_0) | Gemma 4 12B QAT (Q4_0)
+* **IDE & Plugins:** IntelliJ IDEA | Continue | Maven Helper, GitToolBox | SpotBugs, TestMe, TestAutomation | Terraform and HCL | Kubernetes, Go Template
+* **AI Tools:** LM Studio Plugins (Big-RAG, ComfyUI) | Continue Rules (Live Docs, e.g., Camunda)
