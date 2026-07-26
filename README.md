@@ -49,8 +49,8 @@ For professional history and career details, please visit my professional profil
 ## 💡 Portfolio Philosophy & Scope
 
 * My professional role involves navigating the high-stakes complexities of making critical trade-offs between quality, velocity, and cost in a complex, large-scale enterprise landscape - these outputs remain confidential within corporate repositories.
-* In contrast this public space serves as a distillation of that experience, showcasing a full-stack engineering approach.
-* My repos isolate specific technologies or explore organizational patterns at a meta-level to provide clear, modular insights into my engineering DNA.
+* In contrast, this public space serves as a distillation of that experience, showcasing a modular, full-stack engineering approach.
+* My repositories isolate specific technologies or explore organizational patterns at a meta-level to provide clear insights into my engineering DNA.
 * Built entirely from scratch, my repos serve as sandboxed environments for technology validation on my own sovereign hardware and as a means for clear communication with stakeholders.
 
 ---
