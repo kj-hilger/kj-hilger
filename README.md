@@ -2,12 +2,12 @@
 
 ### Senior Java & DevOps Engineer | Agentic AI Orchestration | Bridging Innovation & Compliance (DORA) | Inhouse | Remote-First
 
-I bridge the gap between **deterministic process automation** and **autonomous AI execution**. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **auditable compliance**, and **scalability** are non-negotiable requirements.
+I harmonize deterministic process automation with autonomous AI execution. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **auditable compliance**, and **scalability** are non-negotiable requirements.
 
 ---
 
-## 🚀 Core Competencies & Tech Stack
-*   **Top Skills:** Spring Boot | Kubernetes (OpenShift) | Camunda 8 (Zeebe, BPMN 2.0, DMN).
+## 🚀 Tech Competencies
+*   **Top Skills:** Spring Boot | Kubernetes (OpenShift) | Camunda 8 (Zeebe, BPMN, DMN).
 *   **Engineering & AI:** Java | Python | Agentic AI & Local LLMs in governed workflows | CI/CD (Tekton, GitHub).
 *   **Infrastructure & GitOps:** Linux | AWS | Infrastructure as Code (Terraform) | Helm | ArgoCD.
 *   **Observability & Compliance:** IT Observability (Grafana) | Compliance as Code (DORA).
@@ -46,7 +46,7 @@ For professional history and career details, please visit my professional profil
 
 ---
 
-## 💡 Portfolio Philosophy & Scope
+## 💡 Portfolio Scope
 
 * My professional role involves navigating the high-stakes complexities of making critical trade-offs between quality, velocity, and cost in a complex, large-scale enterprise landscape - these outputs remain confidential within corporate repositories.
 * In contrast, this public space serves as a distillation of that experience, showcasing a modular, full-stack engineering approach.
@@ -57,8 +57,8 @@ For professional history and career details, please visit my professional profil
 
 ## 🛠️ Private Lab Setup
 
-For rapid prototyping and technological validation:
+For rapid prototyping, technological validation and sovereign data:
 * **Hardware:** Desktop (64 GB RAM, 16 GB GPU) | Jetson Orin Nano (8 GB Unified Memory) | Raspberry Pi 5 (8 GB RAM)
-* **AI Server & LLMs:** LM Studio | Qwen3-Coder-30B-A3B-Instruct (Q8_0) | Gemma 4 12B QAT (Q4_0)
+* **AI Server & LLMs:** LM Studio | Qwen3-Coder-30B-A3B-Instruct | Gemma 4 12B QAT
 * **IDE & Plugins:** IntelliJ IDEA | Continue | Maven Helper, GitToolBox | SpotBugs, TestMe, TestAutomation | Terraform and HCL | Kubernetes, Go Template
 * **AI Tools:** LM Studio Plugins (Big-RAG, ComfyUI) | Continue Rules (Live Docs, e.g., Camunda)
