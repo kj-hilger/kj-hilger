@@ -1,6 +1,6 @@
 # Hi, I'm KJ 👋
 
-### Senior Java & DevOps Engineer | Agentic AI Orchestration | Bridging Innovation & Compliance (DORA, KRITIS) | Inhouse | Remote-First
+### Senior DevOps Engineer • Camunda 8 • Agentic AI & Process Automation • Sovereign Cloud • Inhouse • Remote-First
 
 I harmonize deterministic process automation with autonomous AI execution. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **auditable compliance**, and **scalability** are non-negotiable requirements.
 
