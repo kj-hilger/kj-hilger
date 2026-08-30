@@ -1,6 +1,6 @@
 # Hi, I'm KJ 👋
 
-### Senior Java & DevOps Engineer | Agentic AI Orchestration | Bridging Innovation & Compliance (DORA) | Inhouse | Remote-First
+### Senior Java & DevOps Engineer | Agentic AI Orchestration | Bridging Innovation & Compliance (DORA, KRITIS) | Inhouse | Remote-First
 
 I harmonize deterministic process automation with autonomous AI execution. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **auditable compliance**, and **scalability** are non-negotiable requirements.
 
@@ -10,7 +10,7 @@ I harmonize deterministic process automation with autonomous AI execution. My fo
 *   **Top Skills:** Spring Boot | Kubernetes (OpenShift) | Camunda 8 (Zeebe, BPMN, DMN).
 *   **Engineering & AI:** Java | Python | Agentic AI & Local LLMs in governed workflows | CI/CD (Tekton, GitHub).
 *   **Infrastructure & GitOps:** Linux | AWS | Infrastructure as Code (Terraform) | Helm | ArgoCD.
-*   **Observability & Compliance:** IT Observability (Grafana) | Compliance as Code (DORA).
+*   **Observability & Compliance:** IT Observability (Grafana) | Compliance as Code (DORA, KRITS).
 *   **Frontend & UI:** Google Web Toolkit (GWT) | Client/Server communication | JavaScript foundation.
 *   **Data:** SQL | PostgreSQL.
 *   **Methodology & Leadership:** Kanban | Trained ~150 colleagues in BPMN/DMN & ~20 in Java process development.
@@ -57,8 +57,8 @@ For professional history and career details, please visit my professional profil
 
 ## 🛠️ Private Lab Setup
 
-For rapid prototyping, technological validation and sovereign data:
+Whereas in my professional job I use AWS Cloud and github copilot my private Lab setup is different and optimized for rapid prototyping, technological validation and sovereign data:
 * **Hardware:** Desktop (64 GB RAM, 16 GB GPU) | Jetson Orin Nano (8 GB Unified Memory) | Raspberry Pi 5 (8 GB RAM)
 * **AI Server & LLMs:** LM Studio | Qwen3-Coder-30B-A3B-Instruct | Gemma 4 12B QAT
 * **IDE & Plugins:** IntelliJ IDEA | Continue | Maven Helper, GitToolBox | SpotBugs, TestMe, TestAutomation | Terraform and HCL | Kubernetes, Go Template
-* **AI Tools:** LM Studio Plugins (Big-RAG, ComfyUI) | Continue Rules (Live Docs, e.g., Camunda)
+* **AI Harness:** LM Studio Plugins (MCP, Big-RAG, ComfyUI) | Continue Rules for Camunda Live Docs | Custom Skills for Camunda Development
