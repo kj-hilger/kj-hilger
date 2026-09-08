@@ -10,8 +10,8 @@ I harmonize deterministic process automation with autonomous AI execution. My fo
 *   **Top Skills:** Spring Boot | Kubernetes (OpenShift) | Camunda 8 (Zeebe, BPMN, DMN).
 *   **Engineering & AI:** Java | Python | Agentic AI & Local LLMs in governed workflows | CI/CD (Tekton, GitHub).
 *   **Infrastructure & GitOps:** Linux | AWS | Infrastructure as Code (Terraform) | Helm | ArgoCD.
-*   **Observability & Compliance:** IT Observability (Grafana) | Compliance as Code (DORA, KRITS).
-*   **Frontend & UI:** Google Web Toolkit (GWT) | Client/Server communication | JavaScript foundation.
+*   **Observability & Compliance:** IT Observability (Grafana) | Compliance as Code (DORA, KRITIS).
+*   **Frontend & UI:** Client/Server communication | JavaScript foundation.
 *   **Data:** SQL | PostgreSQL.
 *   **Methodology & Leadership:** Kanban | Trained ~150 colleagues in BPMN/DMN & ~20 in Java process development.
 
@@ -22,17 +22,14 @@ I harmonize deterministic process automation with autonomous AI execution. My fo
 For a detailed list of earned skills, please visit my badges on Credly:
 
 <p align="left">
+  <a href="https://www.credly.com/badges/a0fdb13b-5ccd-4bf4-9b7e-0cd1f135f7e4" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/413b6d6a-24d4-44ca-8e91-4a71e3d0c6e9/image.png" alt="Camunda Professional" width="80" height="80" style="opacity: 0.8; margin-right: 12px;"/>
+  </a>
   <a href="https://www.credly.com/badges/630479e1-fdf7-461d-a29c-6b64d12fa10b" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" alt="Linux Essentials" width="80" height="80" style="opacity: 0.8; margin-right: 10px;"/>
+    <img src="https://images.credly.com/size/340x340/images/64199ea4-77c5-4bd5-8652-08c357b3330a/blob" alt="Linux Essentials" width="80" height="80" style="opacity: 0.8; margin-right: 12px;"/>
   </a>
   <a href="https://www.credly.com/badges/ad078eb1-1369-4ad7-b825-e64dfe8b685f" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="Terraform Associate" width="80" height="80" style="opacity: 0.8; margin-right: 10px;"/>
-  </a>
-  <a href="https://www.credly.com/badges/480a1077-32a9-408f-accc-b9536ccf5dbc" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/068c4447-4ae4-47a3-b053-4c9beddfb257/blob" alt="Camunda Associate" width="80" height="80" style="opacity: 0.8; margin-right: 10px;"/>
-  </a>
-  <a href="https://www.credly.com/badges/a0fdb13b-5ccd-4bf4-9b7e-0cd1f135f7e4" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/413b6d6a-24d4-44ca-8e91-4a71e3d0c6e9/image.png" alt="Camunda Professional" width="80" height="80" style="opacity: 0.8;"/>
+    <img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="Terraform Associate" width="80" height="80" style="opacity: 0.8;"/>
   </a>
 </p>
 
@@ -57,8 +54,9 @@ For professional history and career details, please visit my professional profil
 
 ## 🛠️ Private Lab Setup
 
-Whereas in my professional job I use AWS Cloud and github copilot my private Lab setup is different and optimized for rapid prototyping, technological validation and sovereign data:
-* **Hardware:** Desktop (64 GB RAM, 16 GB GPU) | Jetson Orin Nano (8 GB Unified Memory) | Raspberry Pi 5 (8 GB RAM)
-* **AI Server & LLMs:** LM Studio | Qwen3-Coder-30B-A3B-Instruct | Gemma 4 12B QAT
-* **IDE & Plugins:** IntelliJ IDEA | Continue | Maven Helper, GitToolBox | SpotBugs, TestMe, TestAutomation | Terraform and HCL | Kubernetes, Go Template
-* **AI Harness:** LM Studio Plugins (MCP, Big-RAG, ComfyUI) | Continue Rules for Camunda Live Docs | Custom Skills for Camunda Development
+While I rely on **AWS Cloud** and **GitHub Copilot** in my professional day-to-day work, my private lab is built differently - optimized for rapid prototyping, technological validation, and data sovereignty:
+
+* **Hardware:** Desktop (64 GB RAM, 16 GB VRAM) | NVIDIA Jetson Orin Nano (8 GB Unified Memory) | Raspberry Pi 5 (8 GB RAM)
+* **IDE & Plugins:** IntelliJ IDEA | Maven Helper, GitToolBox | SpotBugs, TestMe, TestAutomation | Terraform & HCL | Kubernetes, Go Template | DevoxxGenie
+* **Local AI Harness (IDE Chat, Architecture & Specs):** DevoxxGenie with MCP (IntelliJ, `fetch-url-mcp`) | Gemma 4 12B QAT via LM Studio
+* **Remote AI Harness (Agentic Software Development) (Planned):** Roomote Agent (Standalone, Git Integration for automated commits/pushes) | Qwen3-Coder-30B-A3B-Instruct via Ollama | MCP Servers (Terraform MCP, Camunda Skills)
