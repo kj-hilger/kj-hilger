@@ -7,13 +7,13 @@ I harmonize deterministic process automation with autonomous AI execution. My fo
 ---
 
 ## 🚀 Tech Competencies
-*   **Top Skills:** Spring Boot | Kubernetes (OpenShift) | Camunda 8 (Zeebe, BPMN, DMN).
-*   **Engineering & AI:** Java | Python | Agentic AI & Local LLMs in governed workflows | CI/CD (Tekton, GitHub).
-*   **Infrastructure & GitOps:** Linux | AWS | Infrastructure as Code (Terraform) | Helm | ArgoCD.
-*   **Observability & Compliance:** IT Observability (Grafana) | Compliance as Code (DORA, KRITIS).
-*   **Frontend & UI:** Client/Server communication | JavaScript foundation.
-*   **Data:** SQL | PostgreSQL.
-*   **Methodology & Leadership:** Kanban | Trained ~150 colleagues in BPMN/DMN & ~20 in Java process development.
+*   **Top Skills:** Camunda 8 (Zeebe, BPMN, DMN) | Spring Boot | Kubernetes (OpenShift)
+*   **Engineering & AI:** Java | Python | Agentic AI & Local LLMs in governed workflows | CI/CD (Tekton, GitHub)
+*   **Infrastructure & GitOps:** Linux | Helm | ArgoCD | Infrastructure as Code (Terraform)
+*   **Data:** SQL | PostgreSQL | AWS Aurora
+*   **Observability & Compliance:** IT Observability (Grafana, AWS Cloudwatch) | Compliance as Code (DORA, KRITIS)
+*   **Frontend & UI:** Client/Server communication | JavaScript foundation
+*   **Methodology & Leadership:** Kanban | Trained ~150 colleagues in BPMN/DMN & ~20 in Camunda process development
 
 ---
 
