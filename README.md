@@ -57,6 +57,7 @@ For professional history and career details, please visit my professional profil
 While I rely on **AWS Cloud** and **GitHub Copilot** in my professional day-to-day work, my private lab is built differently - optimized for rapid prototyping, technological validation, and data sovereignty:
 
 * **Hardware:** Desktop (64 GB RAM, 16 GB VRAM) | NVIDIA Jetson Orin Nano (8 GB Unified Memory) | Raspberry Pi 5 (8 GB RAM)
+* **OS:** Debian-based distributions (primarily MX Linux and Jetson Linux)
 * **IDE & Plugins:** IntelliJ IDEA | Maven Helper, GitToolBox | SpotBugs, TestMe, TestAutomation | Terraform & HCL | Kubernetes, Go Template | DevoxxGenie
 * **Local AI Harness (IDE Chat, Architecture & Specs):** DevoxxGenie with MCP (IntelliJ, `fetch-url-mcp`) | Gemma 4 12B QAT via LM Studio
 * **Remote AI Harness (Agentic Software Development) (Planned):** Roomote Agent (Standalone, Git Integration for automated commits/pushes) | Qwen3-Coder-30B-A3B-Instruct via Ollama | MCP Servers (Terraform MCP, Camunda Skills)
