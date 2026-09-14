@@ -32,7 +32,7 @@ For a detailed list of earned skills, please visit my badges:
     <img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="Terraform Associate" width="80" height="80" style="opacity: 0.8;"/>
   </a>
   <a href="docs/certification_istqb.jpg" target="_blank" rel="noreferrer">
-    <img src="docs/ctfl.png" alt="ISTQB Advanced Level Test Management" width="80" height="80" style="opacity: 0.8;"/>
+    <img src="docs/ctfl.jpg" alt="ISTQB Advanced Level Test Management" width="80" height="80" style="opacity: 0.8;"/>
   </a>
 </p>
 
