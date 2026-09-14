@@ -7,19 +7,19 @@ I harmonize deterministic process automation with autonomous AI execution. My fo
 ---
 
 ## 🚀 Tech Competencies
-*   **Top Skills:** Camunda 8 (Zeebe, BPMN, DMN) | Spring Boot | Kubernetes (OpenShift)
+*   **Top Skills:** Camunda 8 (Zeebe, BPMN, DMN) | Spring Boot (Security) | Kubernetes (OpenShift)
 *   **Engineering & AI:** Java | Python | Agentic AI & Local LLMs in governed workflows | CI/CD (Tekton, GitHub)
-*   **Infrastructure & GitOps:** Linux | Helm | ArgoCD | Infrastructure as Code (Terraform)
-*   **Data:** SQL | PostgreSQL | AWS Aurora
+*   **Infrastructure & GitOps:** Linux | AWS (VPC, IAM) Infrastructure as Code (Terraform) | Helm | ArgoCD.
+*   **Data:** SQL | PostgreSQL | AWS RDS Aurora
 *   **Observability & Compliance:** IT Observability (Grafana, AWS Cloudwatch) | Compliance as Code (DORA, KRITIS)
 *   **Frontend & UI:** Client/Server communication | JavaScript foundation
-*   **Methodology & Leadership:** Kanban | Trained ~150 colleagues in BPMN/DMN & ~20 in Camunda process development
+*   **Methodology & Leadership:** Scrumban | Trained ~150 colleagues in BPMN/DMN & ~20 in Camunda process development
 
 ---
 
 ## 🎓 Verified Credentials
 
-For a detailed list of earned skills, please visit my badges on Credly:
+For a detailed list of earned skills, please visit my badges:
 
 <p align="left">
   <a href="https://www.credly.com/badges/a0fdb13b-5ccd-4bf4-9b7e-0cd1f135f7e4" target="_blank" rel="noreferrer">
@@ -31,7 +31,12 @@ For a detailed list of earned skills, please visit my badges on Credly:
   <a href="https://www.credly.com/badges/ad078eb1-1369-4ad7-b825-e64dfe8b685f" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" alt="Terraform Associate" width="80" height="80" style="opacity: 0.8;"/>
   </a>
+  <a href="docs/certification_istqb.jpg" target="_blank" rel="noreferrer">
+    <img src="docs/ctfl.png" alt="ISTQB Advanced Level Test Management" width="80" height="80" style="opacity: 0.8;"/>
+  </a>
 </p>
+
+* ⏳ **In Preparation:** Certified Kubernetes Application Developer (CKAD)
 
 ---
 
