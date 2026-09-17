@@ -59,7 +59,7 @@
 
 ## GitHub Repositories
 
-### Sovereign Camunda Agent Lab
+### [Sovereign Camunda Agent Lab](https://github.com/kj-hilger/sovereign-camunda-agent-lab)
 
 * <p align="left">
   <a href="https://github.com/kj-hilger/sovereign-camunda-agent-lab" target="_blank" rel="noreferrer">
@@ -75,7 +75,7 @@
 * Optimized for the NVIDIA Jetson Orin Nano, a compact and cost-effective device that can be easily wiped and reprovisioned. It enables quiet, low-energy operation and is perfectly suited for portable, on-site demonstrations in air-gapped environments.
 * Topics: `agentic-ai` `ai-automation` `bpmn` `camunda` `camunda-8` `devops` `edge-ai` `helm-chart` `java` `k8s` `kubernetes` `linux` `llm-orchestration` `local-llm` `ollama` `platform-engineering` `self-managed` `shell-script` `spring-boot` 
 
-### Case Study: Change Automation Core
+### Case Study: [Change Automation Core](https://github.com/kj-hilger/change-automation-core)
 
 * <p align="left">
   <a href="https://github.com/kj-hilger/change-automation-core" target="_blank" rel="noreferrer">
