@@ -1,8 +1,9 @@
 # Hi, I'm KJ 👋
 
-### Senior DevOps Engineer • Camunda 8 • Agentic AI & Process Automation • Sovereign Cloud • Inhouse • Remote-First
+## 🎯 Senior DevOps Engineer • Camunda 8 • Agentic AI & Process Automation • Sovereign Cloud • Inhouse • Remote-First
 
-I harmonize deterministic process automation with autonomous AI execution. My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **auditable compliance**, and **scalability** are non-negotiable requirements.
+* I harmonize deterministic process automation with autonomous AI execution. 
+* My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **auditable compliance**, and **scalability** are non-negotiable requirements.
 
 ---
 
@@ -19,9 +20,7 @@ I harmonize deterministic process automation with autonomous AI execution. My fo
 
 ## 🎓 Verified Credentials
 
-For a detailed list of earned skills, please visit my badges:
-
-<p align="left">
+* <p align="left">
   <a href="https://www.credly.com/badges/a0fdb13b-5ccd-4bf4-9b7e-0cd1f135f7e4" target="_blank" rel="noreferrer">
     <img src="https://images.credly.com/size/340x340/images/413b6d6a-24d4-44ca-8e91-4a71e3d0c6e9/image.png" alt="Camunda Professional" width="80" height="80" style="opacity: 0.8; margin-right: 12px;"/>
   </a>
@@ -37,14 +36,15 @@ For a detailed list of earned skills, please visit my badges:
 </p>
 
 * ⏳ **In Preparation:** Certified Kubernetes Application Developer (CKAD)
+* Please visit my badges for a detailed list of earned skills.
 
 ---
 
 ## 🔗 Connect with me
 
-For professional history and career details, please visit my professional profiles:
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karl-josef-hilger-b7209b3b4/) &nbsp; [<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/KarlJosef_Hilger)
+* [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karl-josef-hilger-b7209b3b4/) &nbsp; [<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/KarlJosef_Hilger)
+* Open for exchanges on Agentic AI & Sovereign Cloud architectures
+* Please visit my professional profiles for professional history and career details.
 
 ---
 
@@ -57,10 +57,46 @@ For professional history and career details, please visit my professional profil
 
 ---
 
+## GitHub Repositories
+
+### Sovereign Camunda Agent Lab
+
+* <p align="left">
+  <a href="https://github.com/kj-hilger/sovereign-camunda-agent-lab" target="_blank" rel="noreferrer">
+    <img src="https://github.com/kj-hilger/sovereign-camunda-agent-lab/blob/main/docs/jetson.jpg?raw=true" alt="Jetson Orin Nano" height="240" style="opacity: 0.8; margin-right: 12px;"/>
+  </a>
+  <a href="https://github.com/kj-hilger/sovereign-camunda-agent-lab" target="_blank" rel="noreferrer">
+    <img src="https://github.com/kj-hilger/sovereign-camunda-agent-lab/blob/main/docs/target-architecture.jpeg?raw=true" alt="Architecture" height="240" style="opacity: 0.8; margin-right: 12px;"/>
+  </a>
+</p>
+
+* Lightweight, ephemeral DevOps lab for rapidly spinning up a Camunda 8 Agentic AI process application together with an LLM provider on Jetson Orin Nano.
+* Provision & operate enterprise-grade Camunda 8 with Agentic Tool Calls to LocalLLM on K8s within minutes on your desk, no Internet connection needed during runtime and also no Token Budget.
+* Optimized for the NVIDIA Jetson Orin Nano, a compact and cost-effective device that can be easily wiped and reprovisioned. It enables quiet, low-energy operation and is perfectly suited for portable, on-site demonstrations in air-gapped environments.
+* Topics: `agentic-ai` `ai-automation` `bpmn` `camunda` `camunda-8` `devops` `edge-ai` `helm-chart` `java` `k8s` `kubernetes` `linux` `llm-orchestration` `local-llm` `ollama` `platform-engineering` `self-managed` `shell-script` `spring-boot` 
+
+### Case Study: Change Automation Core
+
+* <p align="left">
+  <a href="https://github.com/kj-hilger/change-automation-core" target="_blank" rel="noreferrer">
+    <img src="https://github.com/kj-hilger/change-automation-core/blob/main/docs/architecture/award.jpg?raw=true" alt="Award" height="240" style="opacity: 0.8;"/>
+  </a>
+  <a href="https://github.com/kj-hilger/change-automation-core" target="_blank" rel="noreferrer">
+    <img src="https://github.com/kj-hilger/change-automation-core/blob/main/docs/architecture/overview.png?raw=true" alt="Architecture Overview" height="240" style="opacity: 0.8;"/>
+  </a>
+</p>
+
+* Impact: Awarded for Delivery Velocity at a leading European Financial Institution.
+* Streamlined production deployments by reducing manual documentation overhead and cross-platform data handling by up to 80%.
+* Multi-Source Integration: Orchestrates data from Jira (Agile PM), LeanIX (Metadata), Kubernetes (Deploy Strategies), Grafana (Metrics), and ServiceNow (ITSM) into a single source of truth.
+* Compliance-as-Code: Engineered a Python-based tool to automate DORA, ITSM, GitOps and internal PM requirements, ensuring 100% adherence to standards.
+* Topics: `compliance-as-code` `compliance-automation` `confluence` `confluence-integration` `dora` `jira-integration` `kanban` `leanix-integration` `local-llm-integration` `servicenow-integration`
+  
+---
+
 ## 🛠️ Private Lab Setup
 
-While I rely on **AWS Cloud** and **GitHub Copilot** in my professional day-to-day work, my private lab is built differently - optimized for rapid prototyping, technological validation, and data sovereignty:
-
+* While I rely on **AWS Cloud** and **GitHub Copilot** in my professional day-to-day work, my private lab is built differently - optimized for rapid prototyping, technological validation, and data sovereignty.
 * **Hardware:** Desktop (64 GB RAM, 16 GB VRAM) | NVIDIA Jetson Orin Nano (8 GB Unified Memory) | Raspberry Pi 5 (8 GB RAM)
 * **OS:** Debian-based distributions (primarily MX Linux and Jetson Linux)
 * **IDE & Plugins:** IntelliJ IDEA | Maven Helper, GitToolBox | SpotBugs, TestMe, TestAutomation | Terraform & HCL | Kubernetes, Go Template | DevoxxGenie
