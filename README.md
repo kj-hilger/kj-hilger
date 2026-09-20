@@ -61,9 +61,9 @@
 
 * While I rely on **AWS Cloud** and **GitHub Copilot** in my professional day-to-day work, my private lab is built differently - optimized for rapid prototyping, technological validation, and data sovereignty.
 * **Hardware:** High-Power Desktop (16 GB GPU + 64 GB RAM) • NVIDIA Jetson Orin Nano (8 GB Unified Memory)
-* **OS:** Debian-based distributions (MX Linux, Jetson Linux with NVIDIA JetPack SDK Stack)
+* **OS:** Debian-based distributions
 * **IDE & Plugins:** IntelliJ IDEA • Maven Helper, GitToolBox • SpotBugs, TestMe, TestAutomation • Terraform & HCL • Kubernetes, Go Template • DevoxxGenie
-* **Local AI Harness (IDE Chat for Architecture & Specs):** DevoxxGenie intelliJ Plugin with MCP (`fetch-url-mcp`)
+* **Local AI Harness (IDE Chat for Architecture & Specs):** LM Studio (`Gemma-4-12B-QAT`) • DevoxxGenie intelliJ Plugin with MCP (`fetch-url-mcp`)
 * **Remote AI Harness (LLM Provider & Agentic Software Development):** vLLM (`Qwen2.5-Coder-7B-Instruct-AWQ`) • Roomote Agent (Docker Sandbox, PR Auto-Merge to local Gitea)
 
 ---
