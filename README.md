@@ -64,7 +64,7 @@
 * **OS:** Debian-based distributions
 * **IDE & Plugins:** IntelliJ IDEA • Maven Helper, GitToolBox • SpotBugs, TestMe, TestAutomation • Terraform & HCL • Kubernetes, Go Template • DevoxxGenie
 * **Local AI Harness (IDE Chat for Architecture & Specs):** LM Studio (`Gemma-4-12B-QAT`) • DevoxxGenie intelliJ Plugin with MCP (`fetch-url-mcp`)
-* **Remote AI Harness (LLM Provider & Agentic Software Development):** vLLM (`Qwen2.5-Coder-7B-Instruct-AWQ`) • Roomote Agent (Docker Sandbox, PR Auto-Merge to local Gitea)
+* **Remote AI Harness (Agentic Software Development):** vLLM (`Qwen2.5-Coder-7B-Instruct-AWQ`) • Roomote Agent (Docker Sandbox, PR Auto-Merge to local Gitea)
 
 ---
 
