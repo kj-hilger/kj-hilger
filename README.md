@@ -8,13 +8,13 @@
 ---
 
 ## 🚀 Tech Competencies
-*   **Top Skills:** Camunda 8 (Zeebe, BPMN, DMN) | Spring Boot (Security) | Kubernetes (OpenShift)
-*   **Engineering & AI:** Java | Python | Agentic AI & Local LLMs in governed workflows | CI/CD (Tekton, GitHub)
-*   **Infrastructure & GitOps:** Linux | AWS (VPC, IAM) Infrastructure as Code (Terraform) | Helm | ArgoCD.
-*   **Data:** SQL | PostgreSQL | AWS RDS Aurora
-*   **Observability & Compliance:** IT Observability (Grafana, AWS Cloudwatch) | Compliance as Code (DORA, KRITIS)
-*   **Frontend & UI:** Client/Server communication | JavaScript foundation
-*   **Methodology & Leadership:** Scrumban | Trained ~150 colleagues in BPMN/DMN & ~20 in Camunda process development
+*   **Top Skills:** Camunda 8 (Zeebe, BPMN, DMN) • Spring Boot (Security) • Kubernetes (OpenShift)
+*   **Engineering & AI:** Java • Python • Agentic AI & Local LLMs • CI/CD (GitHub, Tekton, Maven, OWASP, Sonar)
+*   **Infrastructure & GitOps:** Linux • AWS (VPC, IAM) • Infrastructure as Code (Terraform) • Helm • ArgoCD.
+*   **Data:** SQL • PostgreSQL • AWS RDS Aurora
+*   **Observability & Compliance:** IT Observability (Grafana, AWS Cloudwatch) • Compliance as Code (DORA, KRITIS)
+*   **Frontend & UI:** Client/Server communication • JavaScript foundation
+*   **Methodology & Leadership:** Scrumban • Trained ~150 colleagues in BPMN/DMN & ~20 in Camunda process development
 
 ---
 
@@ -57,6 +57,17 @@
 
 ---
 
+## 🛠️ Private Lab Setup
+
+* While I rely on **AWS Cloud** and **GitHub Copilot** in my professional day-to-day work, my private lab is built differently - optimized for rapid prototyping, technological validation, and data sovereignty.
+* **Hardware:** High-Power Desktop (16 GB GPU + 64 GB RAM) • NVIDIA Jetson Orin Nano (8 GB Unified Memory)
+* **OS:** Debian-based distributions (MX Linux, Jetson Linux with NVIDIA JetPack SDK Stack)
+* **IDE & Plugins:** IntelliJ IDEA • Maven Helper, GitToolBox • SpotBugs, TestMe, TestAutomation • Terraform & HCL • Kubernetes, Go Template • DevoxxGenie
+* **Local AI Harness (IDE Chat for Architecture & Specs):** DevoxxGenie intelliJ Plugin with MCP (`fetch-url-mcp`)
+* **Remote AI Harness (LLM Provider & Agentic Software Development):** vLLM (`Qwen2.5-Coder-7B-Instruct-AWQ`) • Roomote Agent (Docker Sandbox, PR Auto-Merge to local Gitea)
+
+---
+
 ## GitHub Repositories
 
 ### [Sovereign Camunda Agent Lab](https://github.com/kj-hilger/sovereign-camunda-agent-lab)
@@ -70,9 +81,9 @@
   </a>
 </p>
 
-* Lightweight, ephemeral DevOps lab for rapidly spinning up a Camunda 8 Agentic AI process application together with an LLM provider on Jetson Orin Nano.
-* Provision & operate enterprise-grade Camunda 8 with Agentic Tool Calls to LocalLLM on K8s within minutes on your desk, no Internet connection needed during runtime and also no Token Budget.
-* Optimized for the NVIDIA Jetson Orin Nano, a compact and cost-effective device that can be easily wiped and reprovisioned. It enables quiet, low-energy operation and is perfectly suited for portable, on-site demonstrations in air-gapped environments.
+* Lightweight, ephemeral **DevOps lab** for rapidly spinning up a **Camunda 8 Agentic AI** process application together with an **LLM provider** on NVIDIA Jetson Orin Nano.
+* Provision & operate enterprise-grade Camunda 8 with **Agentic Tool Calls** to LocalLLM on **Kubernetes** within minutes on your desk, no Internet connection needed during runtime and also no Token Budget.
+* Optimized for the **NVIDIA Jetson Orin Nano**, a compact and cost-effective device that can be easily wiped and reprovisioned. It enables quiet, low-energy operation and is perfectly suited for portable, on-site demonstrations in air-gapped environments.
 * Topics: `agentic-ai` `ai-automation` `bpmn` `camunda` `camunda-8` `devops` `edge-ai` `helm-chart` `java` `k8s` `kubernetes` `linux` `llm-orchestration` `local-llm` `ollama` `platform-engineering` `self-managed` `shell-script` `spring-boot` 
 
 ### Case Study: [Change Automation Core](https://github.com/kj-hilger/change-automation-core)
@@ -86,19 +97,8 @@
   </a>
 </p>
 
-* Impact: Awarded for Delivery Velocity at a leading European Financial Institution.
-* Streamlined production deployments by reducing manual documentation overhead and cross-platform data handling by up to 80%.
-* Multi-Source Integration: Orchestrates data from Jira (Agile PM), LeanIX (Metadata), Kubernetes (Deploy Strategies), Grafana (Metrics), and ServiceNow (ITSM) into a single source of truth.
-* Compliance-as-Code: Engineered a Python-based tool to automate DORA, ITSM, GitOps and internal PM requirements, ensuring 100% adherence to standards.
+* Impact: **Awarded for Delivery Velocity** at a leading European Financial Institution.
+* **Streamlined production deployments** by reducing manual documentation overhead and cross-platform data handling **by up to 80%**.
+* **Multi-Source Integration**: Orchestrates data from Jira (Agile PM), LeanIX (Metadata), Kubernetes (Deploy Strategies), Grafana (Metrics), and ServiceNow (ITSM) into a single source of truth.
+* **Compliance-as-Code**: Engineered a Python-based tool to automate DORA, ITSM, GitOps and internal PM requirements, ensuring 100% adherence to standards.
 * Topics: `compliance-as-code` `compliance-automation` `confluence` `confluence-integration` `dora` `jira-integration` `kanban` `leanix-integration` `local-llm-integration` `servicenow-integration`
-  
----
-
-## 🛠️ Private Lab Setup
-
-* While I rely on **AWS Cloud** and **GitHub Copilot** in my professional day-to-day work, my private lab is built differently - optimized for rapid prototyping, technological validation, and data sovereignty.
-* **Hardware:** Desktop (64 GB RAM, 16 GB VRAM) | NVIDIA Jetson Orin Nano (8 GB Unified Memory) | Raspberry Pi 5 (8 GB RAM)
-* **OS:** Debian-based distributions (primarily MX Linux and Jetson Linux)
-* **IDE & Plugins:** IntelliJ IDEA | Maven Helper, GitToolBox | SpotBugs, TestMe, TestAutomation | Terraform & HCL | Kubernetes, Go Template | DevoxxGenie
-* **Local AI Harness (IDE Chat, Architecture & Specs):** DevoxxGenie with MCP (IntelliJ, `fetch-url-mcp`) | Gemma 4 12B QAT via LM Studio
-* **Remote AI Harness (Agentic Software Development) (Planned):** Roomote Agent (Standalone, Git Integration for automated commits/pushes) | Qwen3-Coder-30B-A3B-Instruct via Ollama | MCP Servers (Terraform MCP, Camunda Skills)
