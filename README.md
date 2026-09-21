@@ -12,10 +12,10 @@
 *   **Engineering:** Java • Python • CI/CD Pipelines (GitHub, Tekton, Maven, OWASP, Sonar)
 *   **Infrastructure & GitOps:** Linux • AWS (VPC, IAM) • Infrastructure as Code (Terraform) • Helm • ArgoCD.
 *   **Data:** SQL • PostgreSQL • AWS RDS Aurora
-*   **Observability & Compliance:** IT Observability (Grafana, AWS Cloudwatch) • Compliance as Code (DORA, KRITIS)
 *   **Frontend & UI:** Client/Server communication • JavaScript foundation
-*   **Methodology & Leadership:** Scrumban • Trained ~150 colleagues in BPMN/DMN & ~20 in Camunda process development
+*   **Observability & Compliance:** IT Observability (Grafana, AWS Cloudwatch) • Compliance as Code (DORA, KRITIS)
 *   **Sovereign AI & Harness Engineering**: LLM Inference (vLLM, LM Studio) • Agentic Tooling & MCP Integration • Self-Hosted Agent Sandboxes (Roomote, Docker) • GitOps Integration
+*   **Methodology & Leadership:** Scrumban • Trained ~150 colleagues in BPMN/DMN & ~20 in Camunda process development
 
 ---
 
