@@ -9,8 +9,8 @@
 
 ## 🚀 Tech Competencies
 *   **Top Skills:** Camunda 8 (Zeebe, BPMN, DMN) • Spring Boot (Security) • Kubernetes (OpenShift)
-*   **Engineering:** Java • Python • CI/CD Pipelines (GitHub, Tekton, Maven, OWASP, Sonar)
-*   **Infrastructure & GitOps:** Linux • AWS (VPC, IAM) • Infrastructure as Code (Terraform) • Helm • ArgoCD.
+*   **Engineering:** Java • Python • Agentic AI in governed Workflows • CI/CD Pipelines (GitHub, Tekton, Maven, OWASP, Sonar)
+*   **Infrastructure & GitOps:** Linux • AWS (VPC, IAM) • Infrastructure as Code (Terraform) • Helm • ArgoCD
 *   **Data:** SQL • PostgreSQL • AWS RDS Aurora
 *   **Frontend & UI:** Client/Server communication • JavaScript foundation
 *   **Observability & Compliance:** IT Observability (Grafana, AWS Cloudwatch) • Compliance as Code (DORA, KRITIS)
