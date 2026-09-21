@@ -9,12 +9,13 @@
 
 ## 🚀 Tech Competencies
 *   **Top Skills:** Camunda 8 (Zeebe, BPMN, DMN) • Spring Boot (Security) • Kubernetes (OpenShift)
-*   **Engineering & AI:** Java • Python • Agentic AI & Local LLMs • CI/CD (GitHub, Tekton, Maven, OWASP, Sonar)
+*   **Engineering & AI:** Java • Python • Agentic AI & Local LLMs • CI/CD Pipelines (GitHub, Tekton, Maven, OWASP, Sonar)
 *   **Infrastructure & GitOps:** Linux • AWS (VPC, IAM) • Infrastructure as Code (Terraform) • Helm • ArgoCD.
 *   **Data:** SQL • PostgreSQL • AWS RDS Aurora
 *   **Observability & Compliance:** IT Observability (Grafana, AWS Cloudwatch) • Compliance as Code (DORA, KRITIS)
 *   **Frontend & UI:** Client/Server communication • JavaScript foundation
 *   **Methodology & Leadership:** Scrumban • Trained ~150 colleagues in BPMN/DMN & ~20 in Camunda process development
+*   **Sovereign AI & Harness Engineering**: LLM Inference (vLLM, LM Studio) • Agentic Tooling & MCP Integration • Self-Hosted Agent Sandboxes (Roomote, Docker) • GitOps Integration
 
 ---
 
@@ -50,10 +51,10 @@
 
 ## 💡 Portfolio Scope
 
-* My professional role involves navigating the high-stakes complexities of making critical trade-offs between quality, velocity, and cost in a complex, large-scale enterprise landscape - these outputs remain confidential within corporate repositories.
-* In contrast, this public space serves as a distillation of that experience, showcasing a modular, full-stack engineering approach.
-* My repositories isolate specific technologies or explore organizational patterns at a meta-level to provide clear insights into my engineering DNA.
-* Built entirely from scratch, my repos serve as sandboxed environments for technology validation on my own sovereign hardware and as a means for clear communication with stakeholders.
+* My professional role involves navigating the high-stakes complexities of making **critical trade-offs between quality, velocity, and cost** in a complex, large-scale enterprise landscape - these outputs remain confidential within corporate repositories.
+* In contrast, this public space serves as a **distillation of that experience**, showcasing a modular, full-stack engineering approach.
+* My **repositories isolate specific technologies or explore organizational patterns** at a meta-level to provide clear insights into my engineering DNA.
+* Built entirely from scratch, my repos serve as sandboxed environments for **technology validation on my own sovereign hardware** and as a means for clear communication with stakeholders.
 
 ---
 
@@ -63,8 +64,8 @@
 * **Hardware:** High-Power Desktop (16 GB GPU + 64 GB RAM) • NVIDIA Jetson Orin Nano (8 GB Unified Memory)
 * **OS:** Debian-based distributions
 * **IDE & Plugins:** IntelliJ IDEA • Maven Helper, GitToolBox • SpotBugs, TestMe, TestAutomation • Terraform & HCL • Kubernetes, Go Template • DevoxxGenie
-* **Local AI Harness (IDE Chat for Architecture & Specs):** LM Studio (`Gemma-4-12B-QAT`) • DevoxxGenie intelliJ Plugin with MCP (`fetch-url-mcp`)
-* **Remote AI Harness (Agentic Software Development):** vLLM (`Qwen2.5-Coder-7B-Instruct-AWQ`) • Roomote Agent (Docker Sandbox, PR Auto-Merge to local Gitea)
+* **Local AI Harness (Interactive Review):** LM Studio (`Gemma-4-12B-QAT`) • DevoxxGenie (IntelliJ) with MCP (`fetch-url-mcp`)
+* **Remote AI Harness (Autonomous Software Development)**: Self-Hosted vLLM (`Qwen2.5-Coder-7B-Instruct-AWQ`) • Roomote Agent in Docker Sandboxes with automated PR delivery to local Gitea.
 
 ---
 
