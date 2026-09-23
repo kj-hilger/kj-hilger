@@ -2,15 +2,15 @@
 
 ## 🎯 Senior DevOps Engineer • Camunda 8 • Agentic AI & Process Automation • Sovereign Cloud • Inhouse • Remote-First
 
-* I harmonize deterministic process automation with autonomous AI execution. 
-* My focus is on engineering scalable architectures for highly regulated industries where **data sovereignty**, **auditable compliance**, and **scalability** are non-negotiable requirements.
+* I build the resilient **infrastructure for Agentic AI** within **governed, deterministic workflows**.
+* My focus is on engineering **scalable**, **audit-ready** architectures for highly regulated industries where **data sovereignty**, **compliance**, and **autonomous execution** meet.
 
 ---
 
-## 🚀 Tech Competencies
-*   **Top Skills:** Camunda 8 (Zeebe, BPMN, DMN) • Spring Boot (Security) • Kubernetes (OpenShift)
-*   **Engineering:** Java • Python • Agentic AI in governed Workflows • CI/CD Pipelines (GitHub, Tekton, Maven, OWASP, Sonar)
-*   **Infrastructure & GitOps:** Linux • AWS (VPC, IAM) • Infrastructure as Code (Terraform) • Helm • ArgoCD
+## 🚀 Core Competencies
+*   **Top Skills:** Spring Boot • Kubernetes • Terraform • Camunda 8 • Agentic AI
+*   **Engineering:** Java • Spring Security • Python • CI/CD Pipelines (GitHub, Tekton, Maven, OWASP, Sonar)
+*   **Infrastructure & GitOps:** Linux • AWS (VPC, IAM) • Infrastructure as Code • Helm • ArgoCD
 *   **Data:** SQL • PostgreSQL • AWS RDS Aurora
 *   **Frontend & UI:** Client/Server communication • JavaScript foundation
 *   **Observability & Compliance:** IT Observability (Grafana, AWS Cloudwatch) • Compliance as Code (DORA, KRITIS)
