@@ -2,20 +2,21 @@
 
 ## 🎯 Senior DevOps Engineer • Camunda 8 • Agentic AI & Process Automation • Sovereign Cloud • Inhouse • Remote-First
 
-* I build the resilient **infrastructure for Agentic AI** within **governed, deterministic workflows**.
+* I build the resilient **infrastructure for Agentic AI within governed, deterministic workflows**.
 * My focus is on engineering **scalable**, **audit-ready** architectures for highly regulated industries where **data sovereignty**, **compliance**, and **autonomous execution** meet.
 
 ---
 
 ## 🚀 Core Competencies
-*   **Top Skills:** Spring Boot • Kubernetes • Terraform • Camunda 8 • Agentic AI
+*   **Top Skills: Spring Boot • Kubernetes • Terraform • Camunda 8 • Agentic AI**
 *   **Engineering:** Java • Spring Security • Python • CI/CD Pipelines (GitHub, Tekton, Maven, OWASP, Sonar)
-*   **Infrastructure & GitOps:** Linux • AWS (VPC, IAM) • Infrastructure as Code • Helm • ArgoCD
+*   **Sovereign AI:** LLM Inference (vLLM, LM Studio) • LLM Optimization (PagedAttention, KV-Cache Tuning, FP4–FP16 Quantization) • Multi-Arch Kubernetes (ARM64/x86 GPU-Passthrough)
+*   **Infrastructure:** Linux • AWS (VPC, IAM) • Infrastructure as Code • GitOps (Helm, ArgoCD) • MLOps
 *   **Data:** SQL • PostgreSQL • AWS RDS Aurora
-*   **Frontend & UI:** Client/Server communication • JavaScript foundation
 *   **Observability & Compliance:** IT Observability (Grafana, AWS Cloudwatch) • Compliance as Code (DORA, KRITIS)
-*   **Sovereign AI & Harness Engineering**: LLM Inference (vLLM, LM Studio) • Agentic Tooling & MCP Integration • Self-Hosted Agent Sandboxes (Roomote, Docker) • GitOps Integration
-*   **Methodology & Leadership:** Scrumban • Trained ~150 colleagues in BPMN/DMN & ~20 in Camunda process development
+*   **Frontend & UI:** Client/Server communication • JavaScript foundation
+*   **AI Harness Engineering**:  • Agentic Tooling, MCP & RAG Integration • Self-Hosted Agent Sandboxes (OpenHands, Docker) • GitOps Integration
+*   **Methodology & Leadership:** Scrumban • Trained ~150 in BPMN/DMN & ~20 in Camunda process development & ~15 in Agentic AI
 
 ---
 
@@ -42,8 +43,8 @@
 ---
 
 ## 🔗 Connect with me
-
-* [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karl-josef-hilger-b7209b3b4/) &nbsp; [<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/KarlJosef_Hilger)
+                                                                                                                         
+* [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/kj-hilger-b7209b3b4/) &nbsp; [<img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" />](https://www.xing.com/profile/KarlJosef_Hilger)
 * Open for exchanges on Agentic AI & Sovereign Cloud architectures
 * Please visit my professional profiles for professional history and career details.
 
@@ -65,8 +66,7 @@
 * **OS:** Debian-based distributions
 * **IDE & Plugins:** IntelliJ IDEA • Maven Helper, GitToolBox • SpotBugs, TestMe, TestAutomation • Terraform & HCL • Kubernetes, Go Template • DevoxxGenie
 * **Local AI Harness (Interactive Review):** LM Studio (`Gemma-4-12B-QAT`) • DevoxxGenie (IntelliJ) with MCP (`fetch-url-mcp`)
-* **Remote AI Harness (Autonomous Software Development)**: Self-Hosted vLLM (`Qwen2.5-Coder-7B-Instruct-AWQ`) • Roomote Agent in Docker Sandboxes with automated PR delivery to local Gitea.
-
+* **Remote AI Harness (Autonomous Software Development)**: Self-Hosted vLLM (`Qwen2.5-Coder-7B-Instruct-AWQ`) with Low-Level Tuning (KV-Cache Optimization & Multi-Arch ARM64/x86 Execution) • Self-Hosted Agent Sandboxes (OpenHands, Docker)
 ---
 
 ## GitHub Repositories
@@ -78,14 +78,14 @@
     <img src="https://github.com/kj-hilger/sovereign-camunda-agent-lab/blob/main/docs/jetson.jpg?raw=true" alt="Jetson Orin Nano" height="240" style="opacity: 0.8; margin-right: 12px;"/>
   </a>
   <a href="https://github.com/kj-hilger/sovereign-camunda-agent-lab" target="_blank" rel="noreferrer">
-    <img src="https://github.com/kj-hilger/sovereign-camunda-agent-lab/blob/main/docs/target-architecture.jpeg?raw=true" alt="Architecture" height="240" style="opacity: 0.8; margin-right: 12px;"/>
+    <img src="https://github.com/kj-hilger/sovereign-camunda-agent-lab/blob/main/docs/architecture.jpeg?raw=true" alt="Architecture" height="240" style="opacity: 0.8; margin-right: 12px;"/>
   </a>
 </p>
 
 * Lightweight, ephemeral **DevOps lab** for rapidly spinning up a **Camunda 8 Agentic AI** process application together with an **LLM provider** on NVIDIA Jetson Orin Nano.
-* Provision & operate enterprise-grade Camunda 8 with **Agentic Tool Calls** to LocalLLM on **Kubernetes** within minutes on your desk, no Internet connection needed during runtime and also no Token Budget.
-* Optimized for the **NVIDIA Jetson Orin Nano**, a compact and cost-effective device that can be easily wiped and reprovisioned. It enables quiet, low-energy operation and is perfectly suited for portable, on-site demonstrations in air-gapped environments.
-* Topics: `agentic-ai` `ai-automation` `bpmn` `camunda` `camunda-8` `devops` `edge-ai` `helm-chart` `java` `k8s` `kubernetes` `linux` `llm-orchestration` `local-llm` `ollama` `platform-engineering` `self-managed` `shell-script` `spring-boot` 
+* Provision & operate enterprise-grade Camunda 8 with **Agentic Tool Calls** to Local LLM on **Kubernetes** within minutes on your desk, no Internet connection needed during runtime and also no Token Budget.
+* Optimized for the **NVIDIA Jetson Orin Nano 8 GB**, a compact and cost-effective device that can be easily wiped and reprovisioned. It enables quiet, low-energy operation and is perfectly suited for portable, on-site demonstrations in air-gapped environments.
+* Topics: `agentic-ai` `ai-automation` `bpmn` `camunda` `camunda-8` `devops` `edge-ai` `helm-chart` `java` `jetson` `kubernetes` `linux` `llm-orchestration` `local-llm` `ollama` `platform-engineering` `self-managed` `shell-script` `spring-boot` 
 
 ### Case Study: [Change Automation Core](https://github.com/kj-hilger/change-automation-core)
 
