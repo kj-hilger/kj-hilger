@@ -1,8 +1,8 @@
 # Hi, I'm KJ 👋
 
-## 🎯 Senior DevOps Engineer • Camunda 8 • Agentic AI & Process Automation • Sovereign Cloud • Inhouse • Remote-First
+## 🎯 Senior DevOps Engineer • Camunda 8 • Agentic AI & Process Automation • Sovereign Cloud • In-House • Remote-First
 
-* I build the resilient **infrastructure for Agentic AI within governed, deterministic workflows**.
+* I build resilient **infrastructure for Agentic AI within governed, deterministic workflows**.
 * My focus is on engineering **scalable**, **audit-ready** architectures for highly regulated industries where **data sovereignty**, **compliance**, and **autonomous execution** meet.
 
 ---
@@ -61,12 +61,12 @@
 
 ## 🛠️ Private Lab Setup
 
-* While I rely on **AWS Cloud** and **GitHub Copilot** in my professional day-to-day work, my private lab is built differently - optimized for rapid prototyping, technological validation, and data sovereignty.
-* **Hardware:** High-Power Desktop (16 GB GPU + 64 GB RAM) • NVIDIA Jetson Orin Nano (8 GB Unified Memory)
+* While I rely on **AWS Cloud**, **GitHub Copilot** and **Frontier LLMs** in my professional day-to-day work, my private lab is built differently - optimized for rapid prototyping, technological validation, and data sovereignty.
+* **Hardware:** Desktop (16 GB GPU + 64 GB RAM) • NVIDIA Jetson Orin Nano (8 GB Unified Memory)
 * **OS:** Debian-based distributions
 * **IDE & Plugins:** IntelliJ IDEA • Maven Helper, GitToolBox • SpotBugs, TestMe, TestAutomation • Terraform & HCL • Kubernetes, Go Template • DevoxxGenie
-* **Local AI Harness (Interactive Review):** LM Studio (`Gemma-4-12B-QAT`) • DevoxxGenie (IntelliJ) with MCP (`fetch-url-mcp`)
-* **Remote AI Harness (Autonomous Software Development)**: Self-Hosted vLLM (`Qwen2.5-Coder-7B-Instruct-AWQ`) with Low-Level Tuning (KV-Cache Optimization & Multi-Arch ARM64/x86 Execution) • Self-Hosted Agent Sandboxes (OpenHands, Docker)
+* **Local AI Harness for Interactive Review:** DevoxxGenie (IntelliJ) with MCP (`fetch-url-mcp`) • LM Studio (`Gemma-4-12B-QAT`)
+* **Remote AI Harness for Autonomous Software Development**: Self-Hosted Agent Sandboxes (OpenHands, Docker) • Self-Hosted vLLM (`Qwen2.5-Coder-7B-Instruct-AWQ`) with fallback to Cloud-Hosted OpenRouter (`Qwen3-Coder-Next`)
 ---
 
 ## GitHub Repositories
@@ -82,9 +82,10 @@
   </a>
 </p>
 
-* Lightweight, ephemeral **DevOps lab** for rapidly spinning up a **Camunda 8 Agentic AI** process application together with an **LLM provider** on NVIDIA Jetson Orin Nano.
-* Provision & operate enterprise-grade Camunda 8 with **Agentic Tool Calls** to Local LLM on **Kubernetes** within minutes on your desk, no Internet connection needed during runtime and also no Token Budget.
-* Optimized for the **NVIDIA Jetson Orin Nano 8 GB**, a compact and cost-effective device that can be easily wiped and reprovisioned. It enables quiet, low-energy operation and is perfectly suited for portable, on-site demonstrations in air-gapped environments.
+* A lightweight, ephemeral **DevOps lab** for rapidly spinning up a complete **Camunda 8 Agentic AI** process application together with an **LLM provider** on **NVIDIA Jetson Orin Nano**.
+* Operate Camunda 8 with **Tool Calls** to a Local LLM within enterprise-style **Kubernetes**. Don't worry about internet connection at runtime, token costs, update friction, or API changes.
+* Use this project as a starting point to understand how all components of a **self-managed enterprise setup** interact and prototype further scenarios.
+* Optimized for the **NVIDIA Jetson Orin Nano 8 GB**, a compact, cost-effective, and widely available standard edge device that is easy to reset and reprovision. It enables quiet, low-energy operation and is perfectly suited for portable, on-site demonstrations in air-gapped environments.
 * Topics: `agentic-ai` `ai-automation` `bpmn` `camunda` `camunda-8` `devops` `edge-ai` `helm-chart` `java` `jetson` `kubernetes` `linux` `llm-orchestration` `local-llm` `ollama` `platform-engineering` `self-managed` `shell-script` `spring-boot` 
 
 ### Case Study: [Change Automation Core](https://github.com/kj-hilger/change-automation-core)
