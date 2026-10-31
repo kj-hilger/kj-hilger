@@ -1,6 +1,6 @@
 # Hi, I'm KJ 👋
 
-## 🎯 Senior DevOps Engineer • Camunda 8 • Agentic AI & Process Automation • Sovereign Cloud • In-House • Remote-First
+## 🎯 Agentic Platform Engineer • Camunda 8 • Spring Boot • Kubernetes • Terraform • Sovereign Cloud • In-House • Remote-First
 
 * I build resilient **infrastructure for Agentic AI within governed, deterministic workflows**.
 * My focus is on engineering **scalable**, **audit-ready** architectures for highly regulated industries where **data sovereignty**, **compliance**, and **autonomous execution** meet.
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Core Competencies
-*   **Top Skills: Spring Boot • Kubernetes • Terraform • Camunda 8 • Agentic AI**
+*   **Top Skills: Agentic AI • Camunda 8 • Spring Boot • Kubernetes • Terraform**
 *   **Engineering:** Java • Spring Security • Python • CI/CD Pipelines (GitHub, Tekton, Maven, OWASP, Sonar)
 *   **Sovereign AI:** LLM Inference (vLLM, LM Studio) • LLM Optimization (PagedAttention, KV-Cache Tuning, FP4–FP16 Quantization) • Multi-Arch Kubernetes (ARM64/x86 GPU-Passthrough)
 *   **Infrastructure:** Linux • AWS (VPC, IAM) • Infrastructure as Code • GitOps (Helm, ArgoCD) • MLOps
@@ -52,7 +52,7 @@
 
 ## 💡 Portfolio Scope
 
-* My professional role involves navigating the high-stakes complexities of making **critical trade-offs between quality, velocity, and cost** in a complex, large-scale enterprise landscape - these outputs remain confidential within corporate repositories.
+* My professional role involves navigating the high-stakes complexities of making **critical trade-offs between quality, velocity, and cost** along with "political" discussions in a complex, large-scale enterprise landscape - these outputs remain confidential within corporate repositories.
 * In contrast, this public space serves as a **distillation of that experience**, showcasing a modular, full-stack engineering approach.
 * My **repositories isolate specific technologies or explore organizational patterns** at a meta-level to provide clear insights into my engineering DNA.
 * Built entirely from scratch, my repos serve as sandboxed environments for **technology validation on my own sovereign hardware** and as a means for clear communication with stakeholders.
